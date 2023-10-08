@@ -5,10 +5,10 @@
 [ext_resource type="Script" path="res://scripts/ui.gd" id="2_b5req"]
 [ext_resource type="PackedScene" uid="uid://hjsxelaijvpw" path="res://tscn/head.tscn" id="3_6ntgc"]
 [ext_resource type="Script" path="res://tscn/buttons.gd" id="3_m36su"]
-[ext_resource type="Texture2D" uid="uid://8lg4jtx0ndnn" path="res://buttons/Button_Idle.png" id="3_py5ay"]
+[ext_resource type="Texture2D" uid="uid://cxk003lon8ixd" path="res://buttons/Button_Idle.png" id="3_py5ay"]
 [ext_resource type="PackedScene" uid="uid://bfpsxxtol6nt7" path="res://tscn/apple.tscn" id="4_d3p3o"]
-[ext_resource type="Texture2D" uid="uid://e6lwq64e8qbe" path="res://buttons/Button_Pushed.png" id="4_muw2m"]
-[ext_resource type="AudioStream" uid="uid://g6baofafq76g" path="res://apple_pickup.wav" id="5_oc2pg"]
+[ext_resource type="Texture2D" uid="uid://bvp8e3gmi6sel" path="res://buttons/Button_Pushed.png" id="4_muw2m"]
+[ext_resource type="AudioStream" uid="uid://dprrv4v83ynn" path="res://apple_pickup.wav" id="5_oc2pg"]
 [ext_resource type="Script" path="res://tscn/apple_sound.gd" id="6_ipsyu"]
 
 [sub_resource type="Gradient" id="Gradient_utanh"]
