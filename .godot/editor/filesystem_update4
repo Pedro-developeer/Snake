@@ -1,1 +1,7 @@
 res://tscn/game.tscn
+res://scripts/game.gd
+res://scripts/head.gd
+res://scripts/tail.gd
+res://tscn/apple.tscn
+res://scripts/singletone.gd
+res://scripts/ui.gd

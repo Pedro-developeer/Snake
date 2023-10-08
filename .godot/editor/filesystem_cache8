@@ -1,8 +1,8 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1696771099
-apple_pickup.wav::AudioStreamWAV::242595893387459703::1685456961::1696771099::1::::<><>::
+::res://::1696771698
+apple_pickup.wav::AudioStreamWAV::242595893387459703::1696771698::1696771745::1::::<><>::
 icon.svg::CompressedTexture2D::8385928056007430237::1685456961::1696771099::1::::<><>::
-::res://buttons/::1685456961
+::res://buttons/::1696771099
 Button_Idle.png::CompressedTexture2D::6409392606569756681::1685456961::1696771099::1::::<><>::
 Button_Pushed.png::CompressedTexture2D::3893364350819376339::1685456961::1696771099::1::::<><>::
 ::res://scripts/::1685456961
@@ -12,11 +12,11 @@ head.gd::GDScript::-1::1685456961::0::1::::head<>Node2D<>::
 singletone.gd::GDScript::-1::1685456961::0::1::::<>Node<>::
 tail.gd::GDScript::-1::1685456961::0::1::::<>Node2D<>::
 ui.gd::GDScript::-1::1685456961::0::1::::<>Control<>::
-::res://tscn/::1685456961
+::res://tscn/::1696771110
 apple.tscn::PackedScene::2769465785364135554::1685456961::0::1::::<><>::res://scripts/apple.gd
 apple_sound.gd::GDScript::-1::1685456961::0::1::::<>AudioStreamPlayer<>::
 buttons.gd::GDScript::-1::1685456961::0::1::::<>Control<>::
-game.tscn::PackedScene::6872437365609011106::1685456961::0::1::::<><>::res://scripts/game.gd<>uid://dqq8u1frcloul::::res://tscn/table.tscn<>res://scripts/ui.gd<>uid://hjsxelaijvpw::::res://tscn/head.tscn<>res://tscn/buttons.gd<>uid://8lg4jtx0ndnn::::res://buttons/Button_Idle.png<>uid://bfpsxxtol6nt7::::res://tscn/apple.tscn<>uid://e6lwq64e8qbe::::res://buttons/Button_Pushed.png<>uid://g6baofafq76g::::res://apple_pickup.wav<>res://tscn/apple_sound.gd
+game.tscn::PackedScene::6872437365609011106::1696771110::0::1::::<><>::res://scripts/game.gd<>uid://dqq8u1frcloul::::res://tscn/table.tscn<>res://scripts/ui.gd<>uid://hjsxelaijvpw::::res://tscn/head.tscn<>res://tscn/buttons.gd<>uid://cxk003lon8ixd::::res://buttons/Button_Idle.png<>uid://bfpsxxtol6nt7::::res://tscn/apple.tscn<>uid://bvp8e3gmi6sel::::res://buttons/Button_Pushed.png<>uid://dprrv4v83ynn::::res://apple_pickup.wav<>res://tscn/apple_sound.gd
 head.tscn::PackedScene::511035511479692016::1685456961::0::1::::<><>::res://scripts/head.gd
 table.tscn::PackedScene::8317354344098818883::1685456961::0::1::::<><>::
 tail.tscn::PackedScene::7302895262062869689::1685456961::0::1::::<><>::res://scripts/tail.gd
